@@ -16,15 +16,16 @@ public class Student_info {
 
 	public static void main(String[] args) {
 		Student_info s1 = new Student_info();
-		Student_info s2 = new Student_info();
-		Student_info s3 = new Student_info();
 		
 		s1.studentname = "sisi";
 		s1.studentage  = 22;
 		
+		Student_info s2 = new Student_info();
 		
 		s2.studentname = "srinu";
 		s2.studentage  = 23;
+		
+		Student_info s3 = new Student_info();
 		
 		s3.studentname = "venky";
 		s3.studentage  = 22;
